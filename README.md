@@ -1,4 +1,5 @@
 # Drips App Self-host Server
+[English](./README.md) | [简体中文](./README_zh-CN.md)
 ## Introduction
 Drips App is a content recording app that supports article sharing, inspiration arrangement and WeChat entry, and has complete Markdown syntax support.  
 
