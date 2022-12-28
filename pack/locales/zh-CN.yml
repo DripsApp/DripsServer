@@ -1,0 +1,13 @@
+error:
+  permission_denied: "权限不足"
+  not_authorization: "请先登录"
+  invalid_authorization: "身份认证已过期"
+  authorization_not_found: "身份认证失败"
+  internal: "内部错误: %{error}"
+  not_found: "资源不存在"
+  required: "缺少 %{name} 参数"
+server_start: "点点内容服务器已启动!"
+created: "创建成功"
+exist: "已存在"
+no_update: "无更新"
+success: "成功"

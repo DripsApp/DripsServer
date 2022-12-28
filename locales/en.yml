@@ -1,0 +1,13 @@
+error:
+  permission_denied: "Permission denied"
+  not_authorization: "Not authorization"
+  invalid_authorization: "Invalid Authorization"
+  authorization_not_found: "Authorization Not Found"
+  internal: "Internal Error: %{error}"
+  not_found: "Not found"
+  required: "%{name} required"
+server_start: "Drips Content Server Running!"
+created: "Created"
+exist: "Exist"
+no_update: "No update"
+success: "Success"
